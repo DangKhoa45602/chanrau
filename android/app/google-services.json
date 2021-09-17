@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "765863064899",
+    "firebase_url": "https://faceway-869bd-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "faceway-869bd",
+    "storage_bucket": "faceway-869bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765863064899:android:b9eb0340fffcd6e119ebf6",
+        "android_client_info": {
+          "package_name": "com.example.faceway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765863064899-b4713t7937tsj4ahrpaf8vlqsi629in8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.faceway",
+            "certificate_hash": "2b77cd5c25813518ddd3a1ba20e544563208dec0"
+          }
+        },
+        {
+          "client_id": "765863064899-9eeten1gatofchfec6ll1t23p8ki50cu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq_WEQqFhjKHUczc0Ii2hIkX-MxEk-i98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765863064899-9eeten1gatofchfec6ll1t23p8ki50cu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
